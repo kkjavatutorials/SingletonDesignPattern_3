@@ -1,5 +1,10 @@
 package com.kkjavatutorials.singleton;
 
+/**
+ * 
+ * @author KK JavaTutorials
+ *Singleton design pattern
+ */
 public class Singleton {
 
 	private static Singleton INSTANCE = null;
