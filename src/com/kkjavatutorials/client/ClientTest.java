@@ -1,7 +1,7 @@
 package com.kkjavatutorials.client;
 
 import com.kkjavatutorials.singleton.Singleton;
-// KK JavaTutorials-update
+// KK JavaTutorials-update new
 public class ClientTest {
 
 	public static void main(String[] args) {
