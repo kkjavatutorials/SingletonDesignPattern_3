@@ -1,5 +1,5 @@
 package com.kkjavatutorials.client;
-
+//KK JavaTutorials
 import com.kkjavatutorials.singleton.Singleton;
 
 public class ClientTest {
